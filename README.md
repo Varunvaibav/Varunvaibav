@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varunvaibav Sritharan</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast </h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 - 🔭 I’m currently working on **establishing myself as an accomplished Data Scientist**
