@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **establishing myself as an accomplished Data Scientist**
 
-- 🌱 I’m currently learning **Deep Learning, NLP**
+- 🌱 I’m currently learning **Large Language Models, Multimodal Analysis**
 
 - 👯 I’m looking to collaborate on **any interesting Data Science projects**
 
