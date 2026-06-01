@@ -2,11 +2,11 @@
 
 <p align="left">
   <a href="https://github.com/Varunvaibav">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&width=435&lines=Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&width=435&lines=AI+Engineer;Data+Analyst;Data+Scientist" alt="Typing SVG" />
   </a>
 </p>
 
-I am an **Integrated M.Sc. Data Science** student at PSG College of Technology (2020-2025) and currently working as a **Data Analyst** at Vimaan Robotics. I specialize in building scalable data pipelines, developing real-time metric dashboards, and implementing machine learning and Generative AI systems.
+I am an **Integrated M.Sc. Data Science** student at PSG College of Technology (2020-2025) and currently working as a **Data Analyst** at Vimaan Robotics, with a strong focus on transitioning into **AI Engineering**. I specialize in building scalable data pipelines, developing real-time metric dashboards, and implementing machine learning and Generative AI systems.
 
 ---
 
